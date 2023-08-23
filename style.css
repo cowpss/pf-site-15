@@ -538,7 +538,9 @@ video {
   max-width: 100%;
 }
 .glide__slide img {
-  height: 129px;
+  height: 240px;
+  width: 100%;
+  object-fit: cover;
 }
 
 /* feature */
